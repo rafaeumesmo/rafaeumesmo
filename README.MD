@@ -1,7 +1,4 @@
- 
-        
-        <div align="center">
-  
+  ## Em cartaz desde de 2003
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeumesmo&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
