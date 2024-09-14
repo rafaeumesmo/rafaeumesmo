@@ -3,13 +3,14 @@
 
 # Hi there! [Rafael Severo]() 👋
 ### Bem vindo a minha humilde residencia 
+
 <div aling="right">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
-<p align="left"> 
+</div>
+<p align="center"> 
 I’m passionate about technology and software development. I love creating solutions that make a difference and learning something new every day. On my GitHub, you’ll find projects that reflect my interest in programming, software engineering, and innovation.
 </p>
-</div>
+
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
 <br>
