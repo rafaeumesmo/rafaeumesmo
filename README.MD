@@ -2,7 +2,6 @@
 
  <h1 align="center">Hi there! Rafael Severo 👋</h1>
 
-<h3 align="center">Bem vindo a minha humilde residencia!</h3>
 
 <div align="right">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="300px" width="200px" align="right">
