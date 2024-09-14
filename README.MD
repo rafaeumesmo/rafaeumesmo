@@ -11,7 +11,7 @@ I’m passionate about technology and software development. I love creating solu
 <br>
 
 
-<p>
+<p align="relative">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,linux,mongodb,mysql,py,vscode,kubernetes&perline=14" />
   </a>
