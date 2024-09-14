@@ -12,6 +12,8 @@ I’m passionate about technology and software development. I love creating solu
 <br><div>
 
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
 <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" whidth="40" height="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" whidth="40" height="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" whidth="40" height="40" /><img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" whidth="40" height="40" />
 </div><br>
 
@@ -24,9 +26,7 @@ I’m passionate about technology and software development. I love creating solu
 <a href="https://www.linkedin.com/in/Rafaeumesmo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<p align = "center">
-	<img src = "https://github.com/rafaeumesmo/rafaeumesmo/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
 
 
 
