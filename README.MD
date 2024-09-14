@@ -4,7 +4,7 @@
 # Hi there! [Rafael Severo]() 👋
 ### Bem vindo a minha humilde residencia 
 <div aling="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
 I’m passionate about technology and software development. I love creating solutions that make a difference and learning something new every day. On my GitHub, you’ll find projects that reflect my interest in programming, software engineering, and innovation.
