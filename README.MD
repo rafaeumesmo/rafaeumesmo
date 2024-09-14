@@ -1,11 +1,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 
  <h1 align="center">Hi there! Rafael Severo 👋</h1>
+<h3 align="center">Bem vindo a minha humilde residencia!</h3>
 
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="300px" width="200px" align="right">
-</div>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="300px" width="200px" align="right"> 
+
 <p style="text-align: justify" align="left"> 
 I’m passionate about technology and software development. I love creating solutions that make a difference and learning something new every day. On my GitHub, you’ll find projects that reflect my interest in programming, software engineering, and innovation.
 </p>
