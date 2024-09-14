@@ -8,9 +8,7 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="left">
 ### 🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
 <br>
 <div>
 <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" whidth="40" height="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" whidth="40" height="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" whidth="40" height="40" /><img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" whidth="40" height="40" />
