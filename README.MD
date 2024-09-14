@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi there! Rafael Severo 👋</h1>
 
-### Bem vindo a minha humilde residencia 
+<h3> Bem vindo a minha humilde residencia </h3>
 
 <div style="text-align: justify">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
