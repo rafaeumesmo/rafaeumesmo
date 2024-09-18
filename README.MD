@@ -11,7 +11,7 @@ I’m passionate about technology and software development. I love creating solu
 <br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,github,html,linux,mysql,py,vscode =14" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,cpp,py,mysql,css,html,discord,github, =14" />
   </a>
 </p>
 
