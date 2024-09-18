@@ -15,8 +15,8 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
 <br>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,cpp,py,mysql,css,html,discord,github, =14" />
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,mysql,discord,github, =14" />
   </a>
 </p>
 
