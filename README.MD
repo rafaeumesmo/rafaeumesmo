@@ -5,6 +5,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeumesmo&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
+<br>
+
+<p>
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=linux,vscode,mysql,discord,github, =14" />
   </a>
@@ -12,13 +16,7 @@
 
 <img src="gif" alt="ilustração do mario-bros defrente ao computador " >
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
-<br>
-<p>
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,mysql,discord,github, =14" />
-  </a>
-</p>
+
 
 <div align="center">
 <a href="https://instagram.com/rafaeumesmu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
