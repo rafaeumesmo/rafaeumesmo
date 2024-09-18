@@ -1,9 +1,4 @@
 # Hi there! I'm [Rafael Severo]() 👋
-<div align="center">
-<a href="https://instagram.com/rafaeumesmu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:severoverorafael@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Rafaeumesmo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaeumesmo&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Allan dantas github stats" /> 
@@ -19,9 +14,6 @@
     <img src="https://skillicons.dev/icons?i=linux,vscode,mysql,discord,github, =14" />
   </a>
 </p>
-
-
-## Let's Connect⤵️
 
 <div align="center">
 <a href="https://instagram.com/rafaeumesmu" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
