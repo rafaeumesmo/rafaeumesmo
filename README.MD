@@ -1,6 +1,6 @@
 #  🌱 Bem vindo a minha humilde residência 🌱
 
-<img src="Pika!.gif" alt="ilustração de propagandas em um predio " >
+<img width="20%" height="20px" src="Pika!.gif" alt="ilustração de propagandas em um predio " >
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%8A9A5BFF&size=20&center=true&vCenter=true&width=433&height=75&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
