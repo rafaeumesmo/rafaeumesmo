@@ -1,7 +1,5 @@
 #  🌱 Bem vindo a minha humilde residência 🌱
-<div aling="center">
-<img  width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
-</div>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%8A9A5BFF&size=20&left=true&left=true&width=433&height=75&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
@@ -21,6 +19,9 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,py,linux,vscode,mysql,discord,github, =14" />
   </a>
 </p>
+<div align="center">
+<img  width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
+</div>
 
 
 
