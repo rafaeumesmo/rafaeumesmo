@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p aling="right">
+<p aling="left">
 <img width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
 </p>
 
