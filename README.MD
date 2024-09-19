@@ -9,21 +9,17 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaeumesmo&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Severo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeumesmo&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
-<br>
 <div align="right">
 <img  width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
 </div>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
+<br>
+
 <p>
   <a href="https://skillicons.dev" align="left">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,linux,vscode,mysql,discord,github, =14" />
   </a>
 </p>
-
-
-
 
 <img src="gif" alt="ilustração do mario-bros defrente ao computador " >
 
