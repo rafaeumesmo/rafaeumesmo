@@ -1,7 +1,7 @@
 # Hi there! I'm [Rafael Severo]() 👋
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=420&height=75&lines=Me+chamo+Rafael+Severo;Etudante+de+Engenharia+de+Software">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=420&height=80&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
 </p>
 
 <div align="center">  
