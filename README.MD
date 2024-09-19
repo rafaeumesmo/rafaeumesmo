@@ -18,9 +18,9 @@
   </a>
 </p>
 
-<p aling="left">
+<div aling="left">
 <img width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
-</p>
+</div>
 
 <img src="gif" alt="ilustração do mario-bros defrente ao computador " >
 
