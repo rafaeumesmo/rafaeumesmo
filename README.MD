@@ -1,4 +1,7 @@
 #  🌱 Bem vindo a minha humilde residência 🌱
+<div aling="center">
+<img  width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%8A9A5BFF&size=20&left=true&left=true&width=433&height=75&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
@@ -9,9 +12,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeumesmo&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div aling='center'>
-<img  width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
-</div>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  SKILLS</b>
 <br>
