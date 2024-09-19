@@ -1,7 +1,7 @@
 #  🌱 Bem vindo a minha humilde residência 🌱
 
 <p align="right">
-<img width="130.5px" height="75.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
+<img width="140.5px" height="85.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
 </p>
 
 <p align='left'>
