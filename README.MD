@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,py,linux,vscode,mysql,discord,github, =14" />
   </a>
 </p>
-<div align="center">
+<div align="left">
 <img  width="160.5px" height="105.25px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
 </div>
 
