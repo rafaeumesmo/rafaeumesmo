@@ -4,7 +4,7 @@
 <img width="249px" height="138.5px" src="pixel-cat.gif" alt="ilustração de um gatinho pulando " >
 </p>
 
-<p align='center'>
+<p align='left'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%8A9A5BFF&size=20&center=true&vCenter=true&width=433&height=75&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
 </p>
 
