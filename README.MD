@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%8A9A5BFF&size=20&left=true&left=true&width=433&height=75&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaeumesmo&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Severo github stats" /> 
