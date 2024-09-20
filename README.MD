@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%8A9A5BFF&size=20&left=true&left=true&width=433&height=75&lines=Me+chamo+Rafael+Severo;Estudante+de+Engenharia+de+Software">
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A9A5BFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rafael+Severo;E+estou+cursando+Engenharia+de+Software;No+IDP+:%29)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">  
